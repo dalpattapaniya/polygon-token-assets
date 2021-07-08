@@ -43,6 +43,10 @@ const list = {
         symbol: "BZN",
         icon: "BZN.svg"
     },
+    EZ: {
+        symbol: "EZ",
+        icon: "EZ.svg"
+    },
 }
 
 exports.list = list;
